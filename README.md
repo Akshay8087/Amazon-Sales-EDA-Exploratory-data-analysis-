@@ -14,9 +14,7 @@ This project aims to analyze the sales data of an Amazon product using Python an
 - [Data Cleaning](#data-cleaning)
 - [Analysis and Visualization](#analysis-and-visualization)
 - [Insights and Recommendations](#insights-and-recommendations)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Objective
 
